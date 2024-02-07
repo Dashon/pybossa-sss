@@ -27,7 +27,7 @@ requirements = [
     "entrypoints==0.2.3",
     "factory-boy==2.4.1",
     "Faker==1.0.1",
-    "feedparser==5.2.1",
+    "feedparser==6.0.11",
     "Flask==1.1.2",
     "Flask-Assets==0.12",
     "Flask-Babel>=0.9",
